@@ -1,24 +1,3 @@
-page{
-  width: 780px;
-  margin: auto;
-  front-size:16px;
-  font family:'museo'
-}
-photo{
-  float:right;
-}
-.section{
-  margin-bottom: 70px;
-}
-.section-gauche{
-  float:left;
-}
-.section-droite{
-  margin-left: 150px;
-}
-.section-princiaple{
-  margin-top: auto;
-}
 body{
   background-color: orange
 
