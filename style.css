@@ -7,16 +7,16 @@ page{
 photo{
   float:right;
 }
-section{
+.section{
   margin-bottom: 70px;
 }
-gauche{
+.section-gauche{
   float:left;
 }
-droite{
+.section-droite{
   margin-left: 150px;
 }
-princiaple{
+.section-princiaple{
   margin-top: auto;
 }
 body{
