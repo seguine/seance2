@@ -3,9 +3,13 @@ body{
 }
 h1{
   Color:Teal;
+  font-family: museo;
+  font-size: 200%;
 }
 p{
   Color:Black;
+  font-family: museo
+  font-size:160%;
 }
 page{
   width: :780px;
