@@ -6,32 +6,13 @@ h1{
   font-family: museo;
   font-size: 200%;
 }
+h2{
+  color: Black;
+  font-family: museo;
+  font-size: 180%;
+}
 p{
   Color:Black;
   font-family: museo
   font-size:160%;
-}
-page{
-  width: :780px;
-  margin: auto;
-  font-size: 16px;
-  font-family: 'Museo',sans-serif;
-}
-infophoto{
-  height: 250px;
-}
-info{
-  float:left;
-}
-photo{
-  float:right;
-}
-section{
-  margin-bottom: 70px;
-}
-sec-gauche{
-  float: left;
-}
-sec-droit{
-  margin-left: 150px;
 }
